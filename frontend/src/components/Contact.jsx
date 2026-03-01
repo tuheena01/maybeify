@@ -93,7 +93,7 @@ const Contact = () => {
                 name="phone"
                 value={formData.phone}
                 onChange={handleChange}
-                placeholder="+91 98765 43210"
+                placeholder="+91 7809293989"
                 className="w-full"
               />
             </div>
@@ -173,7 +173,7 @@ const Contact = () => {
                 <div>
                   <div className="font-semibold text-foreground mb-1">Location</div>
                   <p className="text-muted-foreground">
-                    Mumbai, Maharashtra<br />
+                    Bhubaneswar, Odisha<br />
                     India
                   </p>
                 </div>
@@ -187,15 +187,15 @@ const Contact = () => {
             <div className="space-y-2">
               <div className="flex justify-between">
                 <span>Monday - Friday</span>
-                <span className="font-semibold">9:00 AM - 6:00 PM</span>
+                <span className="font-semibold">10:00 AM - 6:00 PM</span>
               </div>
               <div className="flex justify-between">
                 <span>Saturday</span>
-                <span className="font-semibold">10:00 AM - 4:00 PM</span>
+                <span className="font-semibold">12:00 AM - 4:00 PM</span>
               </div>
               <div className="flex justify-between">
                 <span>Sunday</span>
-                <span className="font-semibold">Closed</span>
+                <span className="font-semibold">12:00 AM - 1:00 PM</span>
               </div>
             </div>
           </div>
