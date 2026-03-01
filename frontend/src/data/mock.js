@@ -113,7 +113,7 @@ export const packages = [
   {
     id: 1,
     name: "Starter",
-    price: "₹15,999",
+    price: "₹5000",
     description: "Perfect for first-time authors",
     features: [
       "Professional editing",
