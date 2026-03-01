@@ -223,7 +223,7 @@ export const contestInfo = {
 };
 
 export const socialMediaLinks = {
-  instagram: "https://instagram.com/maybeify",
+  instagram: "https://www.instagram.com/_.maybeify?utm_source=qr&igsh=MTA5YTVkM3hvazMxYQ%3D%3D",
   facebook: "https://facebook.com/maybeify",
   linkedin: "https://linkedin.com/company/maybeify"
 };
