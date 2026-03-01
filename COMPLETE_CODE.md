@@ -127,7 +127,7 @@ export const packages = [
   {
     id: 1,
     name: "Starter",
-    price: "₹15,999",
+    price: "₹5,499",
     description: "Perfect for first-time authors",
     features: [
       "Professional editing",
@@ -142,7 +142,7 @@ export const packages = [
   {
     id: 2,
     name: "Professional",
-    price: "₹29,999",
+    price: "₹7,499",
     description: "Most popular choice for serious authors",
     features: [
       "Premium editing & proofreading",
@@ -159,7 +159,7 @@ export const packages = [
   {
     id: 3,
     name: "Premium",
-    price: "₹49,999",
+    price: "₹14,499",
     description: "Complete publishing solution",
     features: [
       "Comprehensive editing",
