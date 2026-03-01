@@ -21,23 +21,35 @@ const Contact = () => {
     });
   };
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    
-    // Mock submission - will be replaced with actual API call
-    console.log('Form submitted:', formData);
-    
-    toast.success('Thank you for contacting us! We will get back to you soon.');
-    
-    // Reset form
-    setFormData({
-      name: '',
-      email: '',
-      phone: '',
-      subject: '',
-      message: ''
+  const handleSubmit = async (e) => {
+  e.preventDefault();
+
+  try {
+    const response = await fetch("https://formspree.io/f/xeelwrve", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Accept": "application/json"
+      },
+      body: JSON.stringify(formData)
     });
-  };
+
+    if (response.ok) {
+      toast.success("Message sent successfully!");
+      setFormData({
+        name: "",
+        email: "",
+        phone: "",
+        subject: "",
+        message: ""
+      });
+    } else {
+      toast.error("Something went wrong. Please try again.");
+    }
+  } catch (error) {
+    toast.error("Error sending message.");
+  }
+};
 
   return (
     <section id="contact" className="section-container bg-secondary">
