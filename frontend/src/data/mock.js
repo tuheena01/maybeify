@@ -112,23 +112,26 @@ export const testimonials = [
 export const packages = [
   {
     id: 1,
-    name: "Starter",
-    price: "₹5000",
+    name: "STANDARD",
+    price: "₹5,499",
     description: "Perfect for first-time authors",
     features: [
-      "Professional editing",
-      "Basic cover design",
-      "ISBN registration",
-      "eBook formatting",
-      "Amazon listing",
-      "Author copy (2 books)"
+      Manuscript editing – spelling correction & proofreading (substantive editing add-on)
+ eBook & paperback formatting with 2 interior review rounds (B/W; illustrations add-on)
+ Standard cover design with mockups & 2 revisions
+ 7-day social media promotion + author certificate & visiting card
+ Optional marketing add-ons: video trailer, Amazon ads, reviews, email marketing & author website
+ Distribution on Kindle, Amazon, Flipkart, Google Play Books & Goodreads
+ ISBN & barcode – full copyright remains with author
+ Author dashboard with monthly payments & 100% lifetime royalty
+ Lifetime book availability + 3 author copies (extra copies at printing cost)
     ],
     popular: false
   },
   {
     id: 2,
-    name: "Professional",
-    price: "₹29,999",
+    name: "PLUS",
+    price: "₹7,499",
     description: "Most popular choice for serious authors",
     features: [
       "Premium editing & proofreading",
@@ -144,8 +147,8 @@ export const packages = [
   },
   {
     id: 3,
-    name: "Premium",
-    price: "₹49,999",
+    name: "PRO",
+    price: "₹14,499",
     description: "Complete publishing solution",
     features: [
       "Comprehensive editing",
