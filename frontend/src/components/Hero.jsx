@@ -15,7 +15,7 @@ const Hero = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1679671519128-fb4508152a80?w=1920&q=80"
+          src="https://wallpapercave.com/wp/wp12623995.jpg"
           alt="Elegant Library"
           className="w-full h-full object-cover"
         />
