@@ -116,15 +116,15 @@ export const packages = [
     price: "₹5,499",
     description: "Perfect for first-time authors",
     features: [
-      Manuscript editing – spelling correction & proofreading (substantive editing add-on)
- eBook & paperback formatting with 2 interior review rounds (B/W; illustrations add-on)
- Standard cover design with mockups & 2 revisions
- 7-day social media promotion + author certificate & visiting card
- Optional marketing add-ons: video trailer, Amazon ads, reviews, email marketing & author website
- Distribution on Kindle, Amazon, Flipkart, Google Play Books & Goodreads
- ISBN & barcode – full copyright remains with author
- Author dashboard with monthly payments & 100% lifetime royalty
- Lifetime book availability + 3 author copies (extra copies at printing cost)
+      "Manuscript editing – spelling correction & proofreading (substantive editing add-on)",
+      "eBook & paperback formatting with 2 interior review rounds (B/W; illustrations add-on)",
+      "Standard cover design with mockups & 2 revisions",
+      "7-day social media promotion + author certificate & visiting card",
+      "Optional marketing add-ons: video trailer, Amazon ads, reviews, email marketing & author website",
+      "Distribution on Kindle, Amazon, Flipkart, Google Play Books & Goodreads",
+      "ISBN & barcode – full copyright remains with author",
+      "Author dashboard with monthly payments & 100% lifetime royalty",
+      "Lifetime book availability + 3 author copies (extra copies at printing cost)"
     ],
     popular: false
   },
