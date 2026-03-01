@@ -3,11 +3,11 @@
 export const publishedBooks = [
   {
     id: 1,
-    title: "The Midnight Chronicles",
-    author: "Sarah Mitchell",
+    title: "The Fantastic Land of Never Ending Stories",
+    author: "Roxana Negut ",
     genre: "Fiction",
-    coverImage: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73",
-    amazonLink: "https://amazon.com/example1",
+    coverImage: "https://m.media-amazon.com/images/I/41bxgf0p0yL._SY445_SX342_FMwebp_.jpg",
+    amazonLink: "https://www.amazon.in/dp/8119189450",
     rating: 4.5,
     reviews: 128,
     description: "A captivating tale of mystery and adventure set in Victorian London."
