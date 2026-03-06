@@ -3,20 +3,20 @@
 export const publishedBooks = [
   {
     id: 1,
-    title: "The Fantastic Land of Never Ending Stories",
-    author: "Roxana Negut ",
-    genre: "Fiction",
-    coverImage: "https://m.media-amazon.com/images/I/41bxgf0p0yL._SY445_SX342_FMwebp_.jpg",
-    amazonLink: "https://www.amazon.in/dp/8119189450",
-    rating: 4.5,
-    reviews: 128,
-    description: "A captivating tale of mystery and adventure set in Victorian London."
+    title: "Ananya",
+    author: "Subash Chandra Jena",
+    genre: "Poetry",
+    coverImage: "https://m.media-amazon.com/images/I/61i2aY-3RaL._SL1500_.jpg",
+    amazonLink: "https://amzn.in/d/0iRsBqQc",
+    rating: 4.7,
+    reviews: 112,
+    description: "Ananya, an oriya literature book penned beautifully by Subash Chandra Jena."
   },
   {
     id: 2,
     title: "Art Of Mind",
     author: "Deborah Tungnung",
-    genre: "Non-Fiction",
+    genre: "Mental-Wellness",
     coverImage: "https://m.media-amazon.com/images/I/61HjNK0PzvL._SL1500_.jpg",
     amazonLink: "https://www.amazon.in/Art-Mind-Deborah-M-Tungnung/dp/B0CL1T4KBP",
     rating: 4.8,
@@ -25,7 +25,7 @@ export const publishedBooks = [
   },
   {
     id: 3,
-    title: "तुम और तुम्हारी बातें: एक पूजा, एक इबादत",
+    title: "Tum aur Tumhari Baatein : Ek Puja, Ek Ibaddat",
     author: "Kaish Siddiqui",
     genre: "Poetry",
     coverImage: "https://m.media-amazon.com/images/I/718XI6k3T2L._SL1500_.jpg",
@@ -36,12 +36,12 @@ export const publishedBooks = [
   },
   {
     id: 4,
-    title: "The Art of Storytelling",
-    author: "Michael Chen",
-    genre: "Academic",
-    coverImage: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6",
-    amazonLink: "https://amazon.com/example4",
-    rating: 4.6,
+    title: "Embers of Musings",
+    author: "Aranyaa Pattnaik",
+    genre: "Poetry",
+    coverImage: "https://m.media-amazon.com/images/I/712rSbZYygL._SL1500_.jpg",
+    amazonLink: "https://amzn.in/d/034LykKM",
+    rating: 5,
     reviews: 174,
     description: "A comprehensive guide to narrative techniques and creative writing."
   }
