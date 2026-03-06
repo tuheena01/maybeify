@@ -3,14 +3,14 @@
 export const publishedBooks = [
   {
     id: 1,
-    title: "Ananya",
-    author: "Subash Chandra Jena",
-    genre: "Poetry",
-    coverImage: "https://m.media-amazon.com/images/I/61i2aY-3RaL._SL1500_.jpg",
-    amazonLink: "https://amzn.in/d/0iRsBqQc",
+    title: "Revealing The Dark Realities : Analysing The Crime In India And The POCSO Act 2012",
+    author: "Ashmeet Kaur",
+    genre: "Crime Stats",
+    coverImage: "https://m.media-amazon.com/images/I/71FM-2EYmXL._SL1500_.jpg",
+    amazonLink: "https://amzn.in/d/0bnciNzd",
     rating: 4.7,
     reviews: 112,
-    description: "Ananya, an oriya literature book penned beautifully by Subash Chandra Jena."
+    description: "The POCSO Act and its function in preventing crimes against children are thoroughly examined in this book, which also addresses potential problems and makes suggestions for enhancements to a child protection system."
   },
   {
     id: 2,
