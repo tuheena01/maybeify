@@ -6,7 +6,7 @@ const About = () => {
     { icon: BookOpen, value: '200+', label: 'Books Published' },
     { icon: Users, value: '100+', label: 'Happy Authors' },
     { icon: Award, value: '1000+', label: 'Writers Community' },
-    { icon: TrendingUp, value: '30', label: 'Literary Events Hosted' }
+    { icon: TrendingUp, value: '30+', label: 'Literary Events Hosted' }
   ];
 
   return (
