@@ -30,9 +30,9 @@ export const publishedBooks = [
     genre: "Poetry",
     coverImage: "https://m.media-amazon.com/images/I/718XI6k3T2L._SL1500_.jpg",
     amazonLink: "https://amzn.in/d/02GGIqTv",
-    rating: 4.8,
-    reviews: 148,
-    description: "A beautiful collection of poems exploring love, loss, and redemption."
+    rating: 4.2,
+    reviews: 128,
+    description: "Immerse yourself in this enchanting anthology of Hindi poetry that beautifully captures the essence of love, devotion, and unspoken emotions."
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ export const publishedBooks = [
     amazonLink: "https://amzn.in/d/034LykKM",
     rating: 5,
     reviews: 174,
-    description: "A comprehensive guide to narrative techniques and creative writing."
+    description: "This book depicts love, resilience, and raw introspection - a safe zone where thoughts can be spoken without fear of being judged. "
   }
 ];
 
