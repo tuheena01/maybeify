@@ -25,7 +25,7 @@ export const publishedBooks = [
   },
   {
     id: 3,
-    title: "Tum aur Tumhari Baatein : Ek Puja, Ek Ibaddat",
+    title: "तुम और तुम्हारी बातें: एक पूजा, एक इबादत",
     author: "Kaish Siddiqui",
     genre: "Poetry",
     coverImage: "https://m.media-amazon.com/images/I/718XI6k3T2L._SL1500_.jpg",
