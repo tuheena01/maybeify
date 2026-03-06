@@ -3,10 +3,10 @@ import { BookOpen, Users, Award, TrendingUp } from 'lucide-react';
 
 const About = () => {
   const stats = [
-    { icon: BookOpen, value: '500+', label: 'Books Published' },
-    { icon: Users, value: '300+', label: 'Happy Authors' },
-    { icon: Award, value: '50+', label: 'Awards Won' },
-    { icon: TrendingUp, value: '95%', label: 'Success Rate' }
+    { icon: BookOpen, value: '200+', label: 'Books Published' },
+    { icon: Users, value: '100+', label: 'Happy Authors' },
+    { icon: Award, value: '1000+', label: 'Writers Community' },
+    { icon: TrendingUp, value: '30', label: 'Literary Events Hosted' }
   ];
 
   return (
